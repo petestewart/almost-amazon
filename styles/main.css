@@ -1,3 +1,20 @@
+  
 body {
-    background-color: aliceblue;
-}
+    background-color: cadetblue;
+  }
+  
+  #store {
+    border: 2px solid brown;
+  }
+  
+  #store button {
+    margin: 10px;
+  }
+  
+  .book-image {
+    width: 150px;
+  }
+
+  #cart {
+    border: 2px solid yellow;
+  }
